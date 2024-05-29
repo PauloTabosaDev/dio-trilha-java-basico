@@ -24,5 +24,4 @@ public class SobreMimScanner {
     System.out.println("E " + altura + " mts de altura");
 
   }
-  
 }
